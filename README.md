@@ -12,7 +12,7 @@
 ### Stats
 
 <div style="display: flex;"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=nabhanh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&show_icons=true" alt="Nabhan's GitHub stats" height="229" />
+  <img src="https://github-readme-stats-six-sigma-78.vercel.app/api?username=nabhanh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&show_icons=true" alt="Nabhan's GitHub stats" height="229" />
     
 <a href="http://www.github.com/nabhanh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nabhanh&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
