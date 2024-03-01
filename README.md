@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nabhan
-- 👀 I’m interested in TS and Rust
-- 🌱 I’m currently learning Rust
-- 📫 How to reach me <nabhanhanif2000@gmail.com>
+- 🌱 I’m currently learning GoLang
+- 📫 How to reach me <nabhan.hanif@icloud.com>
 
 ### Tech I'm passionate about
 <div style="display: flex;">
