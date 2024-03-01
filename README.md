@@ -6,6 +6,7 @@
 <div style="display: flex;">
   <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" height="48" alt="Typescript" /></a>
   <a href="https://prisma.io"><img src="https://www.prisma.io/images/favicon-32x32.png" width="48" height="48" alt="Prisma" /></a>
+<a href="https://nodejs.org"><img src="https://nodejs.org/favicon.ico" width="48" height="48" alt="Node.js" /></a>
 </div>
 
 ### Stats
