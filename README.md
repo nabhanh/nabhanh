@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nabhan
-- 🌱 I’m currently learning GoLang
+- 🌱 I’m currently learning GoLang and Rust
 - 📫 How to reach me <nabhan.hanif@icloud.com>
 
 ### Tech I'm passionate about
